@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "waktu": "07:00",
+        "pengguna": "Sistem",
+        "aktivitas": "Seed",
+        "keterangan": "Data awal dimuat (JSON)"
+    },
+    {
+        "id": 2,
+        "waktu": "07:30",
+        "pengguna": "Petugas MBG",
+        "aktivitas": "Pengambilan",
+        "keterangan": "Budi Santoso mengambil MBG"
+    },
+    {
+        "id": 3,
+        "waktu": "07:35",
+        "pengguna": "Petugas MBG",
+        "aktivitas": "Pengambilan",
+        "keterangan": "Citra Lestari mengambil MBG"
+    }
+]

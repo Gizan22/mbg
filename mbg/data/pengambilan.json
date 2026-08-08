@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "siswa_id": 2,
+        "waktu": "2026-08-08 07:30",
+        "petugas": "Petugas MBG",
+        "status": "Selesai"
+    },
+    {
+        "id": 2,
+        "siswa_id": 3,
+        "waktu": "2026-08-08 07:35",
+        "petugas": "Petugas MBG",
+        "status": "Selesai"
+    },
+    {
+        "id": 3,
+        "siswa_id": 5,
+        "waktu": "2026-08-08 07:40",
+        "petugas": "Petugas MBG",
+        "status": "Selesai"
+    },
+    {
+        "id": 4,
+        "siswa_id": 7,
+        "waktu": "2026-08-08 07:45",
+        "petugas": "Petugas MBG",
+        "status": "Selesai"
+    }
+]

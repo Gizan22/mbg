@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "tanggal": "2026-08-08",
+        "jam_mulai": "07:00",
+        "jam_selesai": "08:00",
+        "kelas": "X",
+        "lokasi": "Aula Utama",
+        "petugas": "Petugas MBG"
+    },
+    {
+        "id": 2,
+        "tanggal": "2026-08-08",
+        "jam_mulai": "08:00",
+        "jam_selesai": "09:00",
+        "kelas": "XI",
+        "lokasi": "Aula Utama",
+        "petugas": "Petugas MBG"
+    },
+    {
+        "id": 3,
+        "tanggal": "2026-08-09",
+        "jam_mulai": "07:00",
+        "jam_selesai": "08:00",
+        "kelas": "XII",
+        "lokasi": "Aula Utama",
+        "petugas": "Petugas MBG"
+    }
+]

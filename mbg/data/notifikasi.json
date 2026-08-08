@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "judul": "Stok MBG Hari Ini",
+        "pesan": "Stok MBG telah disiapkan 120 porsi.",
+        "waktu": "2026-08-08 13:17",
+        "dibaca": 0,
+        "tipe": "info"
+    },
+    {
+        "id": 2,
+        "judul": "Pengambilan Dimulai",
+        "pesan": "Siswa kelas X dapat mengambil MBG mulai pukul 07:00.",
+        "waktu": "2026-08-08 13:17",
+        "dibaca": 0,
+        "tipe": "sukses"
+    },
+    {
+        "id": 3,
+        "judul": "Pengingat Wadah",
+        "pesan": "Mohon kembalikan wadah setelah selesai makan.",
+        "waktu": "2026-08-08 13:17",
+        "dibaca": 1,
+        "tipe": "warning"
+    },
+    {
+        "judul": "Pengumuman",
+        "pesan": "tolong kembaliin ompreng nya",
+        "waktu": "13:17",
+        "tipe": "warning",
+        "dibaca": 0,
+        "id": 4
+    }
+]

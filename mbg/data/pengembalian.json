@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "siswa_id": 3,
+        "waktu_ambil": "2026-08-08 07:35",
+        "status_pengembalian": "Sudah Dikembalikan",
+        "kondisi_wadah": "Baik",
+        "petugas": "Petugas MBG"
+    },
+    {
+        "id": 2,
+        "siswa_id": 7,
+        "waktu_ambil": "2026-08-08 07:45",
+        "status_pengembalian": "Sudah Dikembalikan",
+        "kondisi_wadah": "Baik",
+        "petugas": "Petugas MBG"
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "tanggal": "2026-08-02",
+        "disediakan": 120,
+        "dibagikan": 93,
+        "jumlah_wadah": 120,
+        "wadah_kembali": 80,
+        "wadah_belum_kembali": 20
+    },
+    {
+        "id": 2,
+        "tanggal": "2026-08-03",
+        "disediakan": 120,
+        "dibagikan": 90,
+        "jumlah_wadah": 120,
+        "wadah_kembali": 75,
+        "wadah_belum_kembali": 24
+    },
+    {
+        "id": 3,
+        "tanggal": "2026-08-04",
+        "disediakan": 120,
+        "dibagikan": 102,
+        "jumlah_wadah": 120,
+        "wadah_kembali": 70,
+        "wadah_belum_kembali": 22
+    },
+    {
+        "id": 4,
+        "tanggal": "2026-08-05",
+        "disediakan": 120,
+        "dibagikan": 99,
+        "jumlah_wadah": 120,
+        "wadah_kembali": 85,
+        "wadah_belum_kembali": 20
+    },
+    {
+        "id": 5,
+        "tanggal": "2026-08-06",
+        "disediakan": 120,
+        "dibagikan": 96,
+        "jumlah_wadah": 120,
+        "wadah_kembali": 80,
+        "wadah_belum_kembali": 24
+    },
+    {
+        "id": 6,
+        "tanggal": "2026-08-07",
+        "disediakan": 120,
+        "dibagikan": 93,
+        "jumlah_wadah": 120,
+        "wadah_kembali": 75,
+        "wadah_belum_kembali": 22
+    },
+    {
+        "id": 7,
+        "tanggal": "2026-08-08",
+        "disediakan": 120,
+        "dibagikan": 90,
+        "jumlah_wadah": 120,
+        "wadah_kembali": 70,
+        "wadah_belum_kembali": 20
+    }
+]
